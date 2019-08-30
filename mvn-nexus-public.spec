@@ -4,7 +4,7 @@
 #
 Name     : mvn-nexus-public
 Version  : 2.7.2.01
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/org/sonatype/nexus/nexus-client-core/2.7.2-01/nexus-client-core-2.7.2-01.jar
 Source0  : https://repo1.maven.org/maven2/org/sonatype/nexus/nexus-client-core/2.7.2-01/nexus-client-core-2.7.2-01.jar
 Source1  : https://repo1.maven.org/maven2/org/sonatype/nexus/nexus-client-core/2.7.2-01/nexus-client-core-2.7.2-01.pom
